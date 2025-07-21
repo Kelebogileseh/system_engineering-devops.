@@ -1,2 +1,2 @@
-chmod +x 1-for_best_school
+#!/usr/bin/env bash
 ./1-for_best_school
